@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DangT\\Desktop\\Projects\\.NET\\Library Management System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Library_Management_System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Library_Management_System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DangT\\Desktop\\Projects\\.NET\\Library Management System\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\DangT\\Desktop\\Projects\\.NET\\Library Management System\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DangT\\Desktop\\Projects\\.NET\\Library Management System\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DangT\\Desktop\\Projects\\.NET\\Library Management System\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Library_Management_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Library_Management_System.props",
+      "PackagePath": "build\\Library_Management_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Library_Management_System.props",
+      "PackagePath": "buildMultiTargeting\\Library_Management_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Library_Management_System.props",
+      "PackagePath": "buildTransitive\\Library_Management_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

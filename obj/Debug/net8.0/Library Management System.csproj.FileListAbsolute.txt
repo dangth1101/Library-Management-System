@@ -1,0 +1,29 @@
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.staticwebassets.runtime.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.exe
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.deps.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.runtimeconfig.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.dll
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\bin\Debug\net8.0\Library_Management_System.pdb
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library_Management_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.Library_Management_System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Library_Management_System.props
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library_Management_System.props
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library_Management_System.props
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\scopedcss\bundle\Library_Management_System.styles.css
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\scopedcss\projectbundle\Library_Management_System.bundle.scp.css
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library_Management_System.dll
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\refint\Library_Management_System.dll
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library_Management_System.pdb
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+C:\Users\DangT\Desktop\Projects\.NET\Library Management System\obj\Debug\net8.0\ref\Library_Management_System.dll
